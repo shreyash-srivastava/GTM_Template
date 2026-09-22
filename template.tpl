@@ -1,3 +1,11 @@
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide).
+
+
 ___INFO___
 
 {
@@ -9,8 +17,8 @@ ___INFO___
   "categories": ["UTILITY", "PERSONALIZATION"],
   "brand": {
     "id": "brand_dummy",
-    "displayName": "",
-    "thumbnail": ""
+    "displayName": "Jio",
+    "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII="
   },
   "description": "Sets default Consent Mode v2 state and loads the CMP banner script for this account.",
   "containerContexts": [
@@ -204,12 +212,4 @@ Created for POC/demo purposes.
 container (Templates -> your template -> (kebab menu) -> Export) before
 submitting - this hand-written version may not exactly match GTM's internal
 format and should not be submitted as-is.
-
-
-___SANDBOXED_JS_FOR_SERVER___
-
-
-___SERVER_PERMISSIONS___
-
-[]
 
