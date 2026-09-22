@@ -1,5 +1,5 @@
 homepage: "https://jcmp-cmp-poc-x7k2.web.app"
 documentation: "https://jcmp-cmp-poc-x7k2.web.app/README.md"
 versions:
-  - sha: "a66075dabe6699743ba577e4e79ebc67b4463037"
+  - sha: "e5c977029e7fa382d3162ed9b09f49bf14f41e96"
     changeNotes: Initial release
